@@ -14,9 +14,9 @@
     "diode_direction": "ROW2COL",
     "build": {
 	    "debounce_type":
-    "sym_eager_pk"
+    "asym_eager_defer_pk"
 	},
-    "debounce": 50,
+    "debounce": 5,
     "features": {
         "bootmagic": true,
         "extrakey": true,
